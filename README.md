@@ -7,3 +7,4 @@ https://github.com/Yadhavgomathi123/AIML_BATCH_15/blob/main/a_search_assigment4.
 https://github.com/Yadhavgomathi123/AIML_BATCH_15/blob/main/assigment05_AIML.ipynb
 https://github.com/Yadhavgomathi123/AIML_BATCH_15/blob/main/assig6_AIML.ipynb
 https://github.com/Yadhavgomathi123/AIML_BATCH_15/blob/main/assigment07_SVM.ipynb
+b.com/Yadhavgomathi123/AIML_BATCH_15/blob/main/assig08_Decision_Tree.ipynb
